@@ -39,14 +39,14 @@ round joist.png
 ![](./quirky/square joist.png)
 square joist.png
 
-![](./Trash Hitch Tray/hitch 3_4.png)
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/Trash%20Hitch%20Tray/hitch%203_4.png)
 hitch 3_4.png
 
-![](./Trash Hitch Tray/hitch side.png)hitch side.png
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/Trash%20Hitch%20Tray/hitch%20side.png)hitch side.png
 
-![](./Trash Hitch Tray/hitch top.png)hitch top.png
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/Trash%20Hitch%20Tray/hitch%20top.png)hitch top.png
 
-![](./Trash Hitch Tray/hitch tray.png)hitch tray.png
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/Trash%20Hitch%20Tray/hitch%20tray.png)hitch tray.png
 
 ![](./a rooom.png)a rooom.png
 
