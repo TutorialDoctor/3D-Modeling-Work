@@ -9,19 +9,19 @@
 
 ![](./comic/5.png)5.png
 
-![](./fence house/3_4 front right.png)3_4 front right.png
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/fence%20house/3_4%20front%20right.png)3_4 front right.png
 
-![](./fence house/3_4 front.png)3_4 front.png
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/fence%20house/3_4%20front.png)3_4 front.png
 
 ![](./fence house/3_4 low.png)3_4 low.png
 
-![](./fence house/cut front.png)cut front.png
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/fence%20house/3_4%20low.png)cut front.png
 
-![](./fence house/front.png)front.png
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/fence%20house/front.png)front.png
 
-![](./fence house/side.png)side.png
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/fence%20house/side.png)side.png
 
-![](./fence house/top.png)top.png
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/fence%20house/top.png)top.png
 
 ![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/quirky/ball%20lines.png)ball lines.png
 
