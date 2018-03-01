@@ -13,7 +13,7 @@
 
 ![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/fence%20house/3_4%20front.png)3_4 front.png
 
-![](./fence house/3_4 low.png)3_4 low.png
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/fence%20house/3_4%20low.png?raw=true)3_4 low.png
 
 ![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/fence%20house/3_4%20low.png)cut front.png
 
