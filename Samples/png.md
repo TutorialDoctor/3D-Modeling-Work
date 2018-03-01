@@ -23,7 +23,7 @@
 
 ![](./fence house/top.png)top.png
 
-![](./quirky/ball lines.png)ball lines.png
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/quirky/ball%20lines.png)ball lines.png
 
 ![](./quirky/ball.png)ball.png
 
