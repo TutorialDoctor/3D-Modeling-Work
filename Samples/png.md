@@ -27,13 +27,17 @@
 
 ![](./quirky/ball.png)ball.png
 
-![](./quirky/combo.png)combo.png
+![](./quirky/combo.png)
+combo.png
 
-![](./quirky/joist.png)joist.png
+![](./quirky/joist.png)
+joist.png
 
-![](./quirky/round joist.png)round joist.png
+![](./quirky/round joist.png)
+round joist.png
 
-![](./quirky/square joist.png)square joist.png
+![](./quirky/square joist.png)
+square joist.png
 
 ![](./Trash Hitch Tray/hitch 3_4.png)
 hitch 3_4.png
