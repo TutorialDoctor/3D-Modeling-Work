@@ -50,14 +50,9 @@ hitch 3_4.png
 
 ![](./a rooom.png)a rooom.png
 
-
 ![](./car trash bar.png)car trash bar.png
 
 ![](./H1.png)H1.png
-
-![](./modular city 2.png)modular city 2.png
-
-![](./modular houses pencil.png)modular houses pencil.png
 
 ![](./Screenshot (933).png)Screenshot (933).png
 
