@@ -50,7 +50,6 @@ hitch 3_4.png
 
 ![](./a rooom.png)a rooom.png
 
-![](./Car Trash Bag Holder.png)Car Trash Bag Holder.png
 
 ![](./car trash bar.png)car trash bar.png
 
