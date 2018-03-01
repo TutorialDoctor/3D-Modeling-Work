@@ -54,6 +54,4 @@ hitch 3_4.png
 
 ![](./H1.png)H1.png
 
-![](./Screenshot (933).png)Screenshot (933).png
-
 ![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/Car%20Trash%20Bag%20Holder.png)Trash carrier on van.png
