@@ -33,10 +33,10 @@ combo.png
 ![](./quirky/joist.png)
 joist.png
 
-![](./quirky/round joist.png)
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/quirky/round%20joist.png)
 round joist.png
 
-![](./quirky/square joist.png)
+![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/quirky/square%20joist.png)
 square joist.png
 
 ![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/Trash%20Hitch%20Tray/hitch%203_4.png)
