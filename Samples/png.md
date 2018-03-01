@@ -35,7 +35,8 @@
 
 ![](./quirky/square joist.png)square joist.png
 
-![](./Trash Hitch Tray/hitch 3_4.png)hitch 3_4.png
+![](./Trash Hitch Tray/hitch 3_4.png)
+hitch 3_4.png
 
 ![](./Trash Hitch Tray/hitch side.png)hitch side.png
 
