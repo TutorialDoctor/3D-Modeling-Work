@@ -48,10 +48,6 @@ hitch 3_4.png
 
 ![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/Trash%20Hitch%20Tray/hitch%20tray.png)hitch tray.png
 
-![](./a rooom.png)a rooom.png
-
-![](./car trash bar.png)car trash bar.png
-
 ![](./H1.png)H1.png
 
 ![](https://github.com/TutorialDoctor/3D-Modeling-Work/blob/master/Samples/Car%20Trash%20Bag%20Holder.png)Trash carrier on van.png
